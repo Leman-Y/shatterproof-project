@@ -1,0 +1,68 @@
+.titlePost {
+  justify-content: center;
+  position: relative;
+  top:150px;
+  width: 50%;
+  left: 25%;
+}
+
+.CommentG {
+  margin-right: 50px;
+  font-size: 15px;
+  position: relative;
+  top: 150px;
+  display:flex;
+  justify-content: center;
+  border: 10px;
+  left: 1%;
+}
+
+.comment1 {
+  word-wrap: normal;
+}
+
+.nameT {
+  display: flex;
+  justify-content: center;
+}
+
+.nameU {
+    display: flex;
+    justify-content: center;
+}
+
+.nameV {
+    display: flex;
+    justify-content: center;
+}
+.time {
+  padding-left:5px;
+  display: flex;
+  font-size: 10px;
+}
+
+.CommentG {
+  display:flex;
+  justify-content: center;
+  border: 10px;
+}
+
+.comment1 {
+  padding-top: 5px;
+}
+
+.forum-header-post {
+  display: flex;
+  justify-content: center;
+  position:relative;
+  top: 185px;
+  color: black;
+}
+
+.forum-header2 {
+  display: flex;
+  justify-content: center;
+  position:relative;
+  top: 200px;
+  color: black;
+}
