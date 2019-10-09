@@ -16,16 +16,24 @@ React.js, Express.js, JavaScript, JSX, CSS, SASS
 1. Download this repository
 2. Go inside frontend folder
 3. Run npm install and download necesarry packages
+
 	```npm install```
 4. Run npm start and now you should see our project!
+
 	```npm start```
 5. You can go to our specific webpages by adding these specific paths to your http://localhost:3000/
 	`http://localhost:3000/` Homepage
+
 	`http://localhost:3000/track` Track page
+
 	`http://localhost:3000/forumPost` Forum post page
+
 	`http://localhost:3000/Dashboard` Dashboard page
+
 	`http://localhost:3000/Login` Login page
+
 	`http://localhost:3000/Survey` Survey page
+	
 	`http://localhost:3000/Forum` Forum page
 
 
