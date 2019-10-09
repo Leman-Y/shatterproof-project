@@ -7,7 +7,7 @@ Contributors: Leman Yan, Trevor Nogues, Brandon Soong, and Angela Lim
 [https://docs.google.com/presentation/d/1riiYMq4ufIqdtdBoisBevRda-8C5ClT-25BNFetpKA8/edit?usp=sharing]
 
 ## Background
-As a team of 4 students, we chose to help Shatterproof an organization aimed to turn the tide of the addiction crisis and to help every American with a substance use disorder to find treatment and lasting recovery. Their challenge was to find ways to facilitate and encourage activism and to reach out to more people. Our solution was to create an open discussion forum, an events page and a tracking system. 
+As a team of 4 students, we chose to help Shatterproof an organization aimed to turn the tide of the addiction crisis and to help every American with a substance use disorder to find treatment and lasting recovery. Their challenge was to find ways to facilitate and encourage activism and to reach out to more people. Our solution was to create an open discussion forum, an events page and a tracking system. We were only able to get the front-end of the site working, because we were having issues with the backend. However we do have a database proposal for the backend you can see in our DB Proposal.pdf.
 
 ## Technologies & Languages Used:
 React.js, Express.js, JavaScript, JSX, CSS, SASS
@@ -33,7 +33,7 @@ React.js, Express.js, JavaScript, JSX, CSS, SASS
 	`http://localhost:3000/Login` Login page
 
 	`http://localhost:3000/Survey` Survey page
-	
+
 	`http://localhost:3000/Forum` Forum page
 
 
